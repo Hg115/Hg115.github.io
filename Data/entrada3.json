@@ -1,0 +1,37 @@
+{
+    "kind": "blogger#post",
+    "id": "4636792209732511248",
+    "blog": {
+        "id": "1619062015807416026"
+    },
+    "published": "2023-06-15T12:48:00-07:00",
+    "updated": "2023-06-15T12:52:11-07:00",
+    "url": "http://hrgm465.blogspot.com/2023/06/principios-fundamentales-de-propagacion.html",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1619062015807416026/posts/4636792209732511248",
+    "title": "Principios Fundamentales de Propagación de Ondas Electromagnéticas",
+    "content": "En el vasto campo de las telecomunicaciones, comprender la propagación de las ondas electromagnéticas es esencial para diseñar y optimizar sistemas de comunicaciones eficientes y confiables. El libro \"Sistemas de Comunicaciones\" de Tomasi, en su 4ta edición, proporciona una base sólida para comprender los principios fundamentales de la propagación de ondas electromagnéticas. En este artículo, exploraremos los aspectos clave del capítulo 9, que abarca desde la polarización electromagnética hasta las pérdidas en trayectorias por el espacio libre, pasando por conceptos como rayos y frentes de onda, radiación electromagnética, atenuación y absorción de ondas, propiedades ópticas de las ondas de radio, propagación terrestre, términos y definiciones de propagación, y el margen de desvanecimiento.\n\nPolarización electromagnética\n\nLa polarización electromagnética es un fenómeno que describe la orientación del campo eléctrico de una onda. Puede ser lineal, circular o elíptica, y es fundamental en la transmisión y recepción de señales.\n\nRayos y frentes de ondas\n\nLos rayos representan la dirección de propagación de una onda, mientras que los frentes de onda son superficies imaginarias que conectan puntos de la misma fase en una onda. Estos conceptos son esenciales para comprender cómo las ondas se propagan y se dirigen.\n\nRadiación electromagnética\n\n- Densidad de potencia e intensidad de campo: La densidad de potencia es la cantidad de energía radiada por unidad de tiempo y área, mientras que la intensidad de campo se refiere a la fuerza del campo electromagnético en un punto dado. Ambos conceptos son cruciales para medir y cuantificar la propagación de las ondas electromagnéticas.\n\n- Impedancia característica del espacio libre: La impedancia característica del espacio libre es una propiedad del medio en el que se propagan las ondas electromagnéticas. Representa la relación entre el campo eléctrico y el campo magnético de una onda y desempeña un papel crítico en la transmisión de señales entre antenas.",
+    "images": [
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi_yd9EQHVWbYbDNNLEtubBuGEKSSXe240TGoCr74LAWPHPqquhj7GPcfEddYnFeWRvWi_G8kmDjjlR6y8sDOev5YnEAG9FJkb2FMBoHVkraKZPGx9r0ylatBJ0roLsctmp2_WO544dA6TROfCwziKOJ4FgaVWxK5KEz342FjavKHfgTnWSiOEHZA=w356-h267"
+        },
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhyJEZ1mzKZV4sReV-gRFRwRJEKSFwcqK94UxpUhEDKImZLYZbFmFUOiLDwcabyC52szsrrnaFaqvZj4xt7dBwHeRxZQQqy0HwjMO8-wF6qT4CtNHwWIcUcmyjyQO6U72BPOIuKRVLb-NMb51VlSBJBkB___lOEebMeY1t4SK6mxgC7X40OK5n87g=w371-h190"
+        },
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiFCzNwprZ98im3GWEky829BTIqDSKdMD4pcb4tHgTsvXEirr3GNLPtqGJsiUTFz2mveel64S8ijF0ETgxZrScdM83YuCgy7QYLeN5bfcNvKHxOWARATy7vxx6GSUZXfElNaPrSchWpYjMBq2BZ_acX0N6XJucv4zj2XeJ_bsXd1O9HuSRnAf-0eA=w371-h190"
+        }
+    ],
+    "author": {
+        "id": "13497998277383068593",
+        "displayName": "Henry Guzmán",
+        "url": "https://www.blogger.com/profile/13497998277383068593",
+        "image": {
+            "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+    },
+    "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1619062015807416026/posts/4636792209732511248/comments"
+    },
+    "etag": "\"dGltZXN0YW1wOiAxNjg2ODU4NzMxMzEwCm9mZnNldDogLTI1MjAwMDAwCg\""
+}

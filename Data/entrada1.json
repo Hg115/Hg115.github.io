@@ -1,0 +1,37 @@
+{
+    "id": "2932560458927444541",
+    "blog": {
+        "id": "1619062015807416026"
+    },
+    "published": "2023-06-15T13:45:00-07:00",
+    "updated": "2023-06-15T14:18:07-07:00",
+    "url": "http://hrgm465.blogspot.com/2023/06/guia-completa-sobre-la-propagacion-de.html",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1619062015807416026/posts/2932560458927444541",
+    "title": "Comunicaciones inalámbricas: desde la propagación de ondas electromagnéticas hasta las pérdidas en trayectorias por el espacio libre y el margen de desvanecimiento",
+    "content": "En la era de las comunicaciones inalámbricas, la propagación de las ondas electromagnéticas es un tema fundamental para el diseño y la implementación de sistemas de comunicación. En este contexto, la propagación terrestre de las ondas electromagnéticas, la propagación de las ondas espaciales y la propagación por ondas celestes son temas clave que deben ser comprendidos para garantizar una calidad de comunicación confiable. Además, los términos y definiciones de propagación, como la frecuencia crítica, la altura virtual, la máxima frecuencia útil y la distancia de salto, son esenciales para entender la propagación de las ondas electromagnéticas en diferentes medios y condiciones atmosféricas. Por otro lado, las pérdidas en trayectorias por el espacio libre y el margen de desvanecimiento son importantes para garantizar una calidad de señal confiable en los enlaces de comunicaciones inalámbricas. En esta entrada del blog, exploraremos en detalle la propagación terrestre de las ondas electromagnéticas, la propagación de las ondas espaciales y la propagación por ondas celestes, así como los términos y definiciones clave de propagación. También examinaremos las pérdidas en trayectorias por el espacio libre y el margen de desvanecimiento y cómo se pueden mitigar para lograr una calidad de comunicación confiable en las comunicaciones inalámbricas.\n\nPropagación terrestre de las ondas electromagnéticas\n\nPropagación de ondas terrestres: La propagación de ondas terrestres se refiere a la transmisión y recepción de señales a través de la superficie terrestre. Este método de propagación es común en aplicaciones de corta y media distancia, como la televisión y la radio FM.\n\nPropagación de las ondas espaciales: La propagación de las ondas espaciales se produce cuando las señales se transmiten a través del espacio libre sin obstáculos significativos. Esta forma de propagación se utiliza en aplicaciones como las comunicaciones satelitales y los enlaces de microondas a larga distancia.\n\nPropagación por ondas celestes: La propagación por ondas celestes se produce cuando las señales se reflejan en las capas superiores de la atmósfera y regresan a la Tierra. Este fenómeno permite la propagación de señales a grandes distancias, como las comunicaciones de larga distancia a través de la ionosfera.\n\nTérminos y definiciones de propagación\n\nFrecuencia crítica y ángulo crítico: La frecuencia crítica es la frecuencia mínima a la cual una onda puede ser refractada y seguir una trayectoria terrestre. El ángulo crítico es el ángulo de incidencia mínimo necesario para que la onda se refracte hacia abajo y siga una trayectoria terrestre.\n\nAltura virtual: La altura virtual es la altura aparente a la que una antena parece estar ubicada en la propagación de ondas. Puede ser mayor o menor que la altura física de la antena y afecta la propagación y la cobertura de las señales.\n\nMáxima frecuencia útil: La máxima frecuencia útil es la frecuencia más alta a la cual una onda puede propagarse eficientemente a través de la ionosfera. Por encima de esta frecuencia, la señal se absorbe rápidamente y no puede propagarse a distancias largas.\n\nDistancia de salto: La distancia de salto es la máxima distancia a la que una onda se puede propagar por reflexión en la ionosfera antes de volver a la Tierra. Esta distancia depende de la frecuencia y las condiciones atmosféricas.\n\nPérdidas en trayectorias por el espacio libre\n\nLas pérdidas en trayectorias por el espacio libre se refieren a la disminución de la potencia de una señal a medida que se propaga sin obstáculos en el espacio. Estas pérdidas son causadas principalmente por la dispersión esférica de la energía.\n\n![Imagen 1](https://blogger.googleusercontent.com/img/a/AVvXsEgUqimUqaAQWqVl44jniHj4YWoCg-04GCenCMta3vzrAGX-9QgdEJQAcbbiogDmZ3_MzLUcCloxfV02yMXuerYCapLhfGLm2vtgfsRay-70lbOqFgBQulY8t5ld33yawnzvGJklnGvtxpEFutogP0IG3gUz9NZelvM63ozZKPXnKWDUrD2OiXdd4g)\n\n![Imagen 2](https://blogger.googleusercontent.com/img/a/AVvXsEgkg3Ppdem7QDKBYfK1D2g2UlZJusDJPu8apphulpEFz8C2tRkVw8pYuoZinc0mD4S0gUsSp36Vk01zUOsxUBYIkSSVZjEyLErzx8ILu3MosbTbDAG0cxiKuvtrs6dTmSq2R_Ol1bkAQCweYlk5euCrO41nKAovT6u5mlWmLllhTwB3oysdDhofNg)\n\nMargen de desvanecimiento\n\nEl margen de desvanecimiento es la diferencia entre la potencia máxima y la mínima de una señal en un enlace de comunicaciones. Es una medida de la variabilidad de la señal debido a factores como la interferencia, la atenuación y el ruido, y es importante para garantizar una calidad de comunicación confiable.\n\n![Imagen 3](https://blogger.googleusercontent.com/img/a/AVvXsEhfLWjyE4G2jRPIUpEQ9vrXrpBziNxspjzURE5jaOjZ7OKmE-picztlhMCQ32NlDrGJ3KVULNlbl2LI-RUCdAiPZIKiENjy5jy0pORKoGZjZCmMM9wNcBpjHicO3eLS0baL9J2QP6mkOzDoh-8NxvAU2MpozeMXXc099sdcR4IIScpYZKwxIhS4qw)\n\n---",
+    "author": {
+        "id": "13497998277383068593",
+        "displayName": "Henry Guzmán",
+        "url": "https://www.blogger.com/profile/13497998277383068593",
+        "image": {
+            "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+    },
+    "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1619062015807416026/posts/2932560458927444541/comments"
+    },
+    "images": [
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgUqimUqaAQWqVl44jniHj4YWoCg-04GCenCMta3vzrAGX-9QgdEJQAcbbiogDmZ3_MzLUcCloxfV02yMXuerYCapLhfGLm2vtgfsRay-70lbOqFgBQulY8t5ld33yawnzvGJklnGvtxpEFutogP0IG3gUz9NZelvM63ozZKPXnKWDUrD2OiXdd4g"
+        },
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgkg3Ppdem7QDKBYfK1D2g2UlZJusDJPu8apphulpEFz8C2tRkVw8pYuoZinc0mD4S0gUsSp36Vk01zUOsxUBYIkSSVZjEyLErzx8ILu3MosbTbDAG0cxiKuvtrs6dTmSq2R_Ol1bkAQCweYlk5euCrO41nKAovT6u5mlWmLllhTwB3oysdDhofNg"
+        },
+        {
+            "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhfLWjyE4G2jRPIUpEQ9vrXrpBziNxspjzURE5jaOjZ7OKmE-picztlhMCQ32NlDrGJ3KVULNlbl2LI-RUCdAiPZIKiENjy5jy0pORKoGZjZCmMM9wNcBpjHicO3eLS0baL9J2QP6mkOzDoh-8NxvAU2MpozeMXXc099sdcR4IIScpYZKwxIhS4qw"
+        }
+    ],
+
+    "etag": "\"dGltZXN0YW1wOiAxNjg2ODYzODg3NDU1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+}
